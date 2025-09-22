@@ -20,4 +20,4 @@ To build a **Weather App** in React using:
 
 1. Created React app:
 ```bash
-npx create-react-app weather-app-local
+npx create-react-app weather-app
