@@ -21,3 +21,9 @@ To build a **Weather App** in React using:
 1. Created React app:
 ```bash
 npx create-react-app weather-app
+```
+## Live Demo:-https://react-weatherapp-45.netlify.app/
+Deploying in netlify 
+```
+npm run build
+```
